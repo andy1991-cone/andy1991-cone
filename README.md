@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 .github/workflows/docker-image.yml
  💀💫 
- jangan menilai dari pekerjaan apa lagi penampilan 😏
+ butuh penyemangat      >3
