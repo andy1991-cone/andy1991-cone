@@ -1,36 +1,36 @@
-# Hi there, I'm Andy! 👋
+# こんにちは、アンディです！ 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and learning new technologies.
+私の GitHub プロフィールへようこそ!私は革新的なソリューションを生み出し、新しいテクノロジーを学ぶことに情熱を抱く開発者です。
 
-## About Me
+＃＃ 私について
 
-- 💼 **Occupation**: Software Developer
-- 🎓 **Education**: Bachelor's Degree in Computer Science
-- 🌍 **Location**: [jakarta]
-- 💬 **Languages**: English,japan [indonesia]
+- 💼 **職業**: ソフトウェア開発者
+- 🎓 **学歴**: 日本国内の工場労働者
+- 🌍 **場所**: [ジャカルタ]
+- 💬 **言語**: 英語、日本[インドネシア]
 
-## Skills
+## スキル
 
-- **Programming Languages**: 
+- **プログラミング言語**: 
   - JavaScript
-  - Java
+  - ジャワ
   
   
-- **Web Development**: 
-  - HTML, CSS, JavaScript
-  - React, Angular, Vue.js
-  - Node.js, Express
+- **Web開発**: 
+  - HTML、CSS、JavaScript
+  - React、Angular、Vue.js
+  - Node.js、エクスプレス
   
-- **Database Management**: 
+- **データベース管理**: 
   - MySQL
   - PostgreSQL
-  - MongoDB
+  - モンゴDB
   
-- **Tools & Technologies**: 
-  - Git & GitHub
-  - Docker
-  - Jenkins
-  - AWS, Azure
+- **ツールとテクノロジー**: 
+  - Git と GitHub
+  - ドッカー
+  - ジェンキンス
+  - AWS、Azure
 
 ## Projects
 
